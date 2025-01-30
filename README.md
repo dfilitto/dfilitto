@@ -7,15 +7,41 @@
 </p>
 </div>
 
-## BEM VINDO AO MEU GITHUB
-
 ![Snake animation](https://github.com/dfilitto/dfilitto/blob/output/github-contribution-grid-snake.svg)
 
-<p>Meu nome é Danilo Filitto, sou Mestre em Ciência da Computação pela Universidade Estadual de Maringá – UEM, Pós-Graduado em Redes de Computadores e Comunicação de Dados pela Universidade do Estado do Paraná – UEL, Bacharel em Ciência da Computação pela Universidade do Oeste Paulista – UNOESTE.
+## Desenvolvedor Fullstack | Criador de Jogos e Aplicações Web | Professor e Criador de Conteúdo
 
-Atuo na área acadêmica como professor desde 2006. Atualmente leciono no SENAC (Serviço Nacional de Aprendizagem Comercial) da cidade de Presidente Prudente. Além de professor sou desenvolvedor de jogos, palestrante e mantenedor dos sites <a href="https://www.dfilitto.com.br">DFILITTO</a> e <a href="https://www.makeindiegames.com.br">Make Indie Games</a>.
+Olá, o meu nome é Danilo Filitto, sou um desenvolvedor fullstack apaixonado por tecnologia, especializado na criação de jogos digitais e aplicações web. Tenho mestrado em Ciência da Computação pela UEM e atuo como professor e produtor de conteúdo, compartilhando conhecimento sobre desenvolvimento de software, game development e DevOps.
 
-As Área de Pesquisa em qual atuo são: desenvolvimento de Softwares, estrutura de dados, processamento de imagens digitais, redes de computadores e desenvolvimento de jogos.</p>
+Minha experiência inclui desde a criação de jogos com Unity e Godot até o desenvolvimento de aplicações web escaláveis com JavaScript, Node.js e MongoDB. Além disso, mantenho um canal no YouTube (@dfilitto), onde ensino programação e desenvolvimento de jogos, e sou responsável pelos sites dfilitto.blog.br e makeindiegames.com.br, onde compartilho artigos e tutoriais sobre o setor.
+
+Busco sempre aprimorar minhas habilidades e colaborar em projetos inovadores. Se você está em busca de um profissional que une conhecimento acadêmico, experiência prática e paixão pelo ensino, vamos conversar!
+
+## Principais Habilidades
+
+✅ Desenvolvimento de Jogos (Unity, Godot, C#, Game Design)
+
+✅ Aplicações Web Fullstack (JavaScript, Node.js, MongoDB, React)
+
+✅ Banco de Dados (MongoDB, SQLite, MySQL)
+
+✅ DevOps e Infraestrutura (Docker, Linux, CI/CD)
+
+✅ Ensino e Produção de Conteúdo (YouTube, cursos, artigos)
+
+## Experiências e Projetos Destacados
+
+🎮 Criador do jogo Chronos – Um projeto que explora mecânicas de manipulação do tempo.
+
+📚 Publicações acadêmicas e materiais didáticos sobre game development e tecnologia (Lattes).
+
+🎥 Criador de conteúdo no YouTube – Ensino programação e desenvolvimento de jogos para mais de 30.000 inscritos.
+
+📝 Autor de artigos e tutoriais em dfilitto.blog.br e makeindiegames.com.br.
+
+👨‍💻 Repositórios e projetos open source no GitHub: github.com/dfilitto.
+
+📩 Vamos conversar! Estou aberto a colaborações, projetos e oportunidades na área de tecnologia e desenvolvimento de jogos.
 
 <div>
 <a href="https://github.com/dfilitto">
@@ -24,4 +50,4 @@ As Área de Pesquisa em qual atuo são: desenvolvimento de Softwares, estrutura 
 </div>
    
 <br />  
-<p>Clique no <a href="https://dfilitto.com.br/?p=15740">link</a> para aprender a criar a sua própria página de perfil.<p/>
+<p>Gostou da minha página de perfíl, então clique no <a href="https://dfilitto.com.br/?p=15740">link</a> para aprender a criar a sua própria página de perfil.<p/>
