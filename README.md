@@ -13,19 +13,19 @@
 
 Olá, o meu nome é Danilo Filitto, sou um desenvolvedor fullstack apaixonado por tecnologia, especializado na criação de jogos digitais e aplicações web. Tenho mestrado em Ciência da Computação pela UEM e atuo como professor e produtor de conteúdo, compartilhando conhecimento sobre desenvolvimento de software, game development e DevOps.
 
-Minha experiência inclui desde a criação de jogos com Unity e Godot até o desenvolvimento de aplicações web escaláveis com JavaScript, Node.js e MongoDB. Além disso, mantenho um canal no YouTube (@dfilitto), onde ensino programação e desenvolvimento de jogos, e sou responsável pelos sites dfilitto.blog.br e makeindiegames.com.br, onde compartilho artigos e tutoriais sobre o setor.
+Minha experiência inclui desde a criação de jogos com Unity, Unreal e Construct 3 até o desenvolvimento de aplicações web escaláveis com PHP, JavaScript, Node.js, React, MongoDB e Mysql. Além disso, mantenho um canal no YouTube (@dfilitto), onde ensino programação e desenvolvimento de jogos, e sou responsável pelos sites dfilitto.blog.br e makeindiegames.com.br, onde compartilho artigos e tutoriais sobre o setor.
 
 Busco sempre aprimorar minhas habilidades e colaborar em projetos inovadores. Se você está em busca de um profissional que une conhecimento acadêmico, experiência prática e paixão pelo ensino, vamos conversar!
 
 ## Principais Habilidades
 
-✅ Desenvolvimento de Jogos (Unity, Godot, C#, Game Design)
+✅ Desenvolvimento de Jogos (Unity, Unreal, Construct, C#, Game Design)
 
-✅ Aplicações Web Fullstack (JavaScript, Node.js, MongoDB, React)
+✅ Aplicações Web Fullstack (PHP, JavaScript, Node.js, MongoDB, React)
 
-✅ Banco de Dados (MongoDB, SQLite, MySQL)
+✅ Banco de Dados (MongoDB, SQLite, MySQL, SQLServer)
 
-✅ DevOps e Infraestrutura (Docker, Linux, CI/CD)
+✅ DevOps e Infraestrutura (Docker, Linux)
 
 ✅ Ensino e Produção de Conteúdo (YouTube, cursos, artigos)
 
