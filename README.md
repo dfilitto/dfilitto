@@ -9,6 +9,14 @@
 
 ![Snake animation](https://github.com/dfilitto/dfilitto/blob/output/github-contribution-grid-snake.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dfilitto/dfilitto/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dfilitto/dfilitto/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dfilitto/dfilitto/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ## Desenvolvedor Fullstack | Criador de Jogos e Aplicações Web | Professor e Criador de Conteúdo
 
 Olá, o meu nome é Danilo Filitto, sou um desenvolvedor fullstack apaixonado por tecnologia, especializado na criação de jogos digitais e aplicações web. Tenho mestrado em Ciência da Computação pela UEM e atuo como professor e produtor de conteúdo, compartilhando conhecimento sobre desenvolvimento de software, game development e DevOps.
