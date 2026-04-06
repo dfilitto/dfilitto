@@ -1,19 +1,4 @@
 <div>
-   <p><a href="https://www.dfilitto.com.br"><img src="https://github.com/dfilitto/dfilitto/blob/main/imagens/Banner%20Github.png?raw=true" width="100%" height="auto"/></a></p>
-   <p align="right">
-      <a style="text-decoration: none;" href="https://www.youtube.com/channel/dfilitto" target="_blank">
-         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-      </a>
-     <a style="text-decoration: none;" href="https://instagram.com/dfilitto" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-     </a>
-     <a style="text-decoration: none;" href="https://www.linkedin.com/in/dfilitto" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-     </a> 
-   </p>
-</div>
-
-<div>
    <p>
       <a href="https://www.dfilitto.com.br">
          <img src="https://github.com/dfilitto/dfilitto/blob/main/imagens/Banner%20Github.png?raw=true" width="100%" height="auto"/>
@@ -62,11 +47,6 @@ Busco sempre aprimorar minhas habilidades e colaborar em projetos inovadores. Se
 
 📩 Vamos conversar! Estou aberto a colaborações, projetos e oportunidades na área de tecnologia e desenvolvimento de jogos.
 
-<div>
-<a href="https://github.com/dfilitto">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfilitto&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dfilitto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
    
 <br />  
 <p>Gostou da minha página de perfíl, então clique no <a href="https://dfilitto.com.br/?p=15740">link</a> para aprender a criar a sua própria página de perfil.<p/>
