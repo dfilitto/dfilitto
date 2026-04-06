@@ -17,6 +17,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=dfilitto&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Danilo Filitto" />
   </a>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfilitto&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 </div>
 
