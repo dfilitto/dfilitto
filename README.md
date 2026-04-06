@@ -11,6 +11,8 @@
    </p>
 </div>
 
+![dfilitto](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+
 ###
 
 ## Desenvolvedor Fullstack | Criador de Jogos e Aplicações Web | Professor e Criador de Conteúdo
