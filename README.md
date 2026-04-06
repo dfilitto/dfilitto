@@ -11,11 +11,13 @@
    </p>
 </div>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dfilitto&theme=radical&column=7&margin-w=15" alt="dfilitto Trophies" />
-  </a>
-</p>
+<div>
+   <p align="center">
+     <a href="https://github.com/ryo-ma/github-profile-trophy">
+       <img src="https://github-profile-trophy.vercel.app/?username=dfilitto&theme=radical&column=7" alt="dfilitto Trophies" />
+     </a>
+   </p>
+</div>
 
 ###
 
