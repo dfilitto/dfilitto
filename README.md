@@ -11,7 +11,7 @@
    </p>
 </div>
 
-![dfilitto](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=dfilitto)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
 
