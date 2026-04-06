@@ -12,10 +12,11 @@
 </div>
 
 <div>
-   <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dfilitto&theme=flat" />
+  <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=dfilitto&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Danilo Filitto" />
   </a>
+</p>
 </p>
 </div>
 
